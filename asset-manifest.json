@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jjeongyuri.ccoding/static/css/main.d859a7fc.css",
+    "main.js": "/jjeongyuri.ccoding/static/js/main.25bdd297.js",
+    "static/js/453.ede2c593.chunk.js": "/jjeongyuri.ccoding/static/js/453.ede2c593.chunk.js",
+    "index.html": "/jjeongyuri.ccoding/index.html",
+    "main.d859a7fc.css.map": "/jjeongyuri.ccoding/static/css/main.d859a7fc.css.map",
+    "main.25bdd297.js.map": "/jjeongyuri.ccoding/static/js/main.25bdd297.js.map",
+    "453.ede2c593.chunk.js.map": "/jjeongyuri.ccoding/static/js/453.ede2c593.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d859a7fc.css",
+    "static/js/main.25bdd297.js"
+  ]
+}
